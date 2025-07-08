@@ -4,6 +4,12 @@
         // Java 基礎開發包 (已包含 Maven 和 Red Hat Java 支援)
         "vscjava.vscode-java-pack",
         // Spring Boot 開發包 (已包含 Dashboard 和 Initializr)
-        "vmware.vscode-spring-boot"
+        "vmware.vscode-spring-boot",
+        // Spring Boot Extension Pack
+        "pivotal.vscode-spring-boot-extension-pack",
+        // Spring Initializr Java Support
+        "vscjava.vscode-spring-initializr",
+        // Spring Boot Dashboard
+        "vmware.vscode-spring-boot-dashboard"
     ]
 }
