@@ -1,0 +1,9 @@
+// filepath: .vscode/extensions.json
+{
+    "recommendations": [
+        // Java 基礎開發包 (已包含 Maven 和 Red Hat Java 支援)
+        "vscjava.vscode-java-pack",
+        // Spring Boot 開發包 (已包含 Dashboard 和 Initializr)
+        "vmware.vscode-spring-boot"
+    ]
+}
